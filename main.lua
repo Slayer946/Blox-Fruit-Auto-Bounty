@@ -82,7 +82,7 @@ StaminaText.BackgroundTransparency = 1.000
 StaminaText.Position = UDim2.new(0.0260000005, 0, 0.00000001, 0)
 StaminaText.Size = UDim2.new(0, 200, 0, 22)
 StaminaText.Font = Enum.Font.GothamBold
-StaminaText.Text = "❗ZEN HUB INFO ❗"
+StaminaText.Text = "❗SCE TEAM INFO❗"
 StaminaText.TextColor3 = Color3.fromRGB(255, 0, 0)
 StaminaText.TextSize = 12.000
 StaminaText.TextWrapped = true
@@ -134,7 +134,7 @@ Text2.Position = UDim2.new(0.5, 0, 0.5, 0)
 Text2.Size = UDim2.new(0, 40, 0, 12)
 Text2.ZIndex = 16
 Text2.Font = Enum.Font.GothamBold
-Text2.Text = "Join Zen Hub Discord!"
+Text2.Text = "Join Sce Team Hub discord"
 Text2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Text2.TextSize = 14.000
 
